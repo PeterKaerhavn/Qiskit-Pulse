@@ -1,5 +1,5 @@
 The pulse tutorial is an IPython Notebook meant to be opened within the IBM Quantum Lab environment. 
-Itwas created as part of a master's thesis in physics, focused on implementing cloud-based quantum 
+It was created as part of a master's thesis in physics, focused on implementing cloud-based quantum 
 computing in physics education at a university level.
 
 The pulse tutorial has the style of an inquiry-based learning envorionment, designed to teach 
